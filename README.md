@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jldeep/pretty-go-bytes.svg?branch=master)](https://travis-ci.org/jldeep/pretty-go-bytes)
+
 # pretty-go-bytes
 
 Golang port of the pretty-bytes node.js module
